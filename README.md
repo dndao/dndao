@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm Daniel Dao,
 - 🌱 I just recently finished my Bachelor of Computer Science degree
 - 🔭 I’m currently working on a water flow monitoring project 
 - 📫 You can reach me at: danielquangdao@gmail.com
