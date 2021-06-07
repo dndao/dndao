@@ -1,4 +1,4 @@
-### Howdy, stranger 👋
+### Howdy, friends 👋
 I'm Daniel;
 
 - 🌱 I am a Developer/Designer and Startups Founder.
