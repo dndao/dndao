@@ -2,7 +2,7 @@
 I'm Daniel;
 
 - ☸️ I am a DevOps Engineer specialised in Azure, .NET and Kubernetes.
-- 🛠️ I’m currently working as a DevOps Engineer at Platform Managed Services - Deloitte Core Business Operations.
+- 🛠️ I’m currently working at Deloitte Core Business Operations - Platform Managed Services.
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/quangdao23/)
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I have a birthmark that swells before a thunderstorm
